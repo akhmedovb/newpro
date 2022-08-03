@@ -3,3 +3,9 @@
     height: 20px;
     background-color: black;
 }
+div{
+    border: 2px solid;
+    background-color: burlywood;
+    width: 250px;
+    height: 250px;
+}
